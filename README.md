@@ -59,7 +59,7 @@ I love building robust, scalable, and secure web applications, with a clean and 
 </a>
 
 <a href="https://github.com/variyajatish">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=variyajatish&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=variyajatish&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
 </a>
 
 </div>
