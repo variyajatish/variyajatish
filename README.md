@@ -9,7 +9,7 @@ I love building robust, scalable, and secure web applications, with a clean and 
 
 ### 📬 Let's Connect
 
-<div width="30%">
+<div width="30%" align="center">
 - 🔗 [LinkedIn](https://linkedin.com/in/jatish-variya-b7999b2ab)  
 - 💻 [GitHub](https://github.com/variyajatish)  
 - 📧 [Email](mailto:jatishvariya2003@gmail.com
