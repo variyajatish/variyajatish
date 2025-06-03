@@ -50,9 +50,17 @@ I love building robust, scalable, and secure web applications, with a clean and 
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=variyajatish&show_icons=true&theme=radical&hide_border=true&border_radius=8&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=variyajatish&layout=compact&theme=radical&hide_border=true&border_radius=8)
+<div align="center">
 
----
+<a href="https://github.com/variyajatish">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=variyajatish&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" />
+</a>
+
+<a href="https://github.com/variyajatish">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=variyajatish&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
+</a>
+
+</div>
+
