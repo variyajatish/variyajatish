@@ -9,9 +9,9 @@ I love building robust, scalable, and secure web applications, with a clean and 
 
 ### 📬 Let's Connect
 
-- 🔗 [LinkedIn]([https://www.linkedin.com/in/variyajatish](https://linkedin.com/in/jatish-variya-b7999b2ab))  
+- 🔗 [LinkedIn](https://linkedin.com/in/jatish-variya-b7999b2ab)  
 - 💻 [GitHub](https://github.com/variyajatish)  
-- 📧 Email: jatishvariya2003@gmail.com
+- 📧 [Email](mailto:jatishvariya2003@gmail.com)
 
 ---
 
