@@ -9,19 +9,16 @@ I love building robust, scalable, and secure web applications, with a clean and 
 
 ### 📬 Let's Connect
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<p align="left" style="display: inline-block; width: 48%;">
+  <a href="https://linkedin.com/in/jatish-variya-b7999b2ab">🔗 LinkedIn</a><br>
+  <a href="https://github.com/variyajatish">💻 GitHub</a><br>
+  <a href="mailto:jatishvariya2003@gmail.com">📧 Email</a>
+</p>
 
-  <div style="width: 30%; font-size: 16px;">
-    🔗 <a href="https://linkedin.com/in/jatish-variya-b7999b2ab">LinkedIn</a><br>
-    💻 <a href="https://github.com/variyajatish">GitHub</a><br>
-    📧 <a href="mailto:jatishvariya2003@gmail.com">Email</a>
-  </div>
+<p align="right" style="display: inline-block; width: 48%;">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF" />
+</p>
 
-  <div style="width: 70%; text-align: center;">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF" />
-  </div>
-
-</div>
 
 
 ---
