@@ -2,6 +2,12 @@
 
 ## 🧑‍💻 Python Django Developer | Backend Enthusiast
 
+### 📬 Let's Connect
+
+- 🔗 [LinkedIn]([https://www.linkedin.com/in/variyajatish](https://linkedin.com/in/jatish-variya-b7999b2ab))  
+- 💻 [GitHub](https://github.com/variyajatish)  
+- 📧 Email: jatishvariya2003@gmail.com
+
 🎓 I'm a passionate developer with a strong foundation in Python and Django.  
 I love building robust, scalable, and secure web applications, with a clean and maintainable codebase.
 
@@ -48,9 +54,3 @@ I love building robust, scalable, and secure web applications, with a clean and 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=variyajatish&layout=compact&theme=radical&hide_border=true&border_radius=8)
 
 ---
-
-### 📬 Let's Connect
-
-- 🔗 [LinkedIn]([https://www.linkedin.com/in/variyajatish](https://linkedin.com/in/jatish-variya-b7999b2ab))  
-- 💻 [GitHub](https://github.com/variyajatish)  
-- 📧 Email: jatishvariya2003@gmail.com
