@@ -13,6 +13,10 @@ I love building robust, scalable, and secure web applications, with a clean and 
 - 💻 [GitHub](https://github.com/variyajatish)  
 - 📧 [Email](mailto:jatishvariya2003@gmail.com)
 
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coding GIF" />
+</div>
+
 ---
 
 ### 🛠️ Tech Stack
