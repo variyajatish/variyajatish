@@ -16,7 +16,7 @@ I love building robust, scalable, and secure web applications, with a clean and 
 </div>
 
 <p>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding GIF" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF" />
 </p>
 
 ---
