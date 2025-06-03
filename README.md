@@ -44,7 +44,7 @@ I love building robust, scalable, and secure web applications, with a clean and 
 
 ### 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=variyajatish&theme=onedark&no-frame=true&bg_color=000000&column=6)
+![Trophies](https://github-profile-trophy.vercel.app/?username=variyajatish&theme=onedark&no-frame=true&bg_color=000000&column=4)
 
 ---
 
