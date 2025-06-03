@@ -2,14 +2,16 @@
 
 ## 🧑‍💻 Python Django Developer | Backend Enthusiast
 
+🎓 I'm a passionate developer with a strong foundation in Python and Django.  
+I love building robust, scalable, and secure web applications, with a clean and maintainable codebase.
+
+---
+
 ### 📬 Let's Connect
 
 - 🔗 [LinkedIn]([https://www.linkedin.com/in/variyajatish](https://linkedin.com/in/jatish-variya-b7999b2ab))  
 - 💻 [GitHub](https://github.com/variyajatish)  
 - 📧 Email: jatishvariya2003@gmail.com
-
-🎓 I'm a passionate developer with a strong foundation in Python and Django.  
-I love building robust, scalable, and secure web applications, with a clean and maintainable codebase.
 
 ---
 
