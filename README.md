@@ -37,7 +37,7 @@ I love building robust, scalable, and secure web applications, with a clean and 
 ### 🚀 What I'm Working On
 
 - 🔨 Building Django-based full-stack projects
-- 🌱 Learning more about **Django Rest Framework (DRF)** and **API integrations**
+- 🌱 Learning more about **Django Rest Framework (DRF)** and **API integrations**     
 - 📊 Exploring Data Visualization and getting started with Data Science
 
 ---
