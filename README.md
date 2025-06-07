@@ -10,7 +10,7 @@ I love building robust, scalable, and secure web applications, with a clean and 
 ### 📬 Let's Connect
 
 <div align="left">
-  <a href="https://linkedin.com/in/jatish-variya-b7999b2ab">🔗 LinkedIn</a><br>
+  <a href="https://linkedin.com/in/jatish-variya-b7999b2ab">🔗 LinkedIn</a><br>       
   <a href="https://github.com/variyajatish">💻 GitHub</a><br>
   <a href="mailto:jatishvariya2003@gmail.com">📧 Email</a>
 </div>
