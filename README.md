@@ -1,22 +1,22 @@
-# 👋 Hello, I'm Jatish Variya                                         
-                                                   
-## 🧑‍💻 Python Developer | Django Backend | Problem Solver & Code Optimizer                                                                       
-                                                                      
-🎓 I'm a passionate developer with a strong foundation in Python and Django.                                                                      
-I love building robust, scalable, and secure web applications, with a clean and maintainable codebase.                                                   
-                                                                                                               
----                                                
-                                              
-### 📬 Let's Connect                                                   
-                                                       
-<div align="left">                                                       
-  <a href="https://linkedin.com/in/jatish-variya-b7999b2ab">🔗 LinkedIn</a><br>                                 
-  <a href="https://github.com/variyajatish">💻 GitHub</a><br>                        
-  <a href="mailto:jatishvariya2003@gmail.com">📧 Email</a>                          
-</div>                          
-                                   
-<p>                                              
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF" />                                                                    
+# 👋 Hello, I'm Jatish Variya                                                                            
+                                                                                                                      
+## 🧑‍💻 Python Developer | Django Backend | Problem Solver & Code Optimizer                                                                                      
+                                                                                                                              
+🎓 I'm a passionate developer with a strong foundation in Python and Django.                                                                                                 
+I love building robust, scalable, and secure web applications, with a clean and maintainable codebase.                                                                                         
+                                                                                                                                                                                              
+---                                                                        
+   
+### 📬 Let's Connect                                                                                           
+                                                                         
+<div align="left">                                                                                                        
+  <a href="https://linkedin.com/in/jatish-variya-b7999b2ab">🔗 LinkedIn</a><br>                                                           
+  <a href="https://github.com/variyajatish">💻 GitHub</a><br>                                      
+  <a href="mailto:jatishvariya2003@gmail.com">📧 Email</a>                                                       
+</div>                                                                     
+                                                                                
+<p>                                                                
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF" />                                                                      
 </p>                                                                                                     
                                   
 ---                          
@@ -54,19 +54,19 @@ I love building robust, scalable, and secure web applications, with a clean and 
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=variyajatish&theme=onedark&no-frame=true&bg_color=000000&column=8)
 
----
+---                             
 
-### 📊 GitHub Analytics
+### 📊 GitHub Analytics                  
+                         
+<div align="center">                           
 
-<div align="center">
-
-<a href="https://github.com/variyajatish">
+<a href="https://github.com/variyajatish">                                            
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=variyajatish&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" />
-</a>
-
-<a href="https://github.com/variyajatish">
+</a>                
+                                           
+<a href="https://github.com/variyajatish">                            
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=variyajatish&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
-</a>
-
-</div>
+</a>                  
+                                              
+</div>                                                  
 
