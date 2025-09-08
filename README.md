@@ -1,18 +1,18 @@
-# 👋 Hello, I'm Jatish Variya
-
-## 🧑‍💻 Python Developer | Django Backend | Problem Solver & Code Optimizer
-
-🎓 I'm a passionate developer with a strong foundation in Python and Django.
-I love building robust, scalable, and secure web applications, with a clean and maintainable codebase.
-
----
-
-### 📬 Let's Connect
-
-<div align="left">
-  <a href="https://linkedin.com/in/jatish-variya-b7999b2ab">🔗 LinkedIn</a><br>
-  <a href="https://github.com/variyajatish">💻 GitHub</a><br>
-  <a href="mailto:jatishvariya2003@gmail.com">📧 Email</a>
+# 👋 Hello, I'm Jatish Variya                          
+                                 
+## 🧑‍💻 Python Developer | Django Backend | Problem Solver & Code Optimizer                            
+                                               
+🎓 I'm a passionate developer with a strong foundation in Python and Django.                            
+I love building robust, scalable, and secure web applications, with a clean and maintainable codebase.                          
+                 
+---             
+                     
+### 📬 Let's Connect               
+                   
+<div align="left">                               
+  <a href="https://linkedin.com/in/jatish-variya-b7999b2ab">🔗 LinkedIn</a><br>             
+  <a href="https://github.com/variyajatish">💻 GitHub</a><br>            
+  <a href="mailto:jatishvariya2003@gmail.com">📧 Email</a>         
 </div>
 
 <p>
