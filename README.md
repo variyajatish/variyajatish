@@ -1,5 +1,5 @@
-# 👋 Hello, I'm Jatish Variya
-
+# 👋 Hello, I'm Jatish Variya             
+                             
 ## 🧑‍💻 Python Developer | Django Backend | Problem Solver & Code Optimizer
 
 🎓 I'm a passionate developer with a strong foundation in Python and Django.
